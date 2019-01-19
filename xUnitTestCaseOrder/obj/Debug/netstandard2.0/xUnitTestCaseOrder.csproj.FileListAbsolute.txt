@@ -1,0 +1,13 @@
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\bin\Debug\netstandard2.0\xUnitTestCaseOrder.deps.json
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\bin\Debug\netstandard2.0\xUnitTestCaseOrder.dll
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\bin\Debug\netstandard2.0\xUnitTestCaseOrder.pdb
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\bin\Debug\netstandard2.0\xunit.abstractions.dll
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\bin\Debug\netstandard2.0\xunit.core.dll
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\bin\Debug\netstandard2.0\xunit.abstractions.xml
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\bin\Debug\netstandard2.0\xunit.core.xml
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\obj\Debug\netstandard2.0\xUnitTestCaseOrder.csproj.CoreCompileInputs.cache
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\obj\Debug\netstandard2.0\xUnitTestCaseOrder.AssemblyInfoInputs.cache
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\obj\Debug\netstandard2.0\xUnitTestCaseOrder.AssemblyInfo.cs
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\obj\Debug\netstandard2.0\xUnitTestCaseOrder.csproj.CopyComplete
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\obj\Debug\netstandard2.0\xUnitTestCaseOrder.dll
+C:\Projects\xUnitOrder\xUnitTestCaseOrder\xUnitTestCaseOrder\obj\Debug\netstandard2.0\xUnitTestCaseOrder.pdb
